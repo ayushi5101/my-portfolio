@@ -16,7 +16,12 @@ function Navbar() {
         <a href="#contact">Contact</a>
       </nav>
 
-      <a href="#contact" className="resume-btn">
+      <a
+        href="/Ayushi_Parmar_Resume.pdf"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="resume-btn"
+        >
         Resume
       </a>
     </header>
